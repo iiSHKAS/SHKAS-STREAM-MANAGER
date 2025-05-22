@@ -19,7 +19,7 @@ On this page, you can:
 - View the current stream status and platform.
 
 🖼️ *Image Placeholder:*  
-![Title and Status Page](images/title-status.png)
+![Title and Status Page](images/Home_page.png)
 
 ---
 
