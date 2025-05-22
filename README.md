@@ -1,9 +1,5 @@
 # 🎮 SHKAS STREAM MANGER
-
-A tool that automatically updates your stream's **category** and **title** on both **Twitch** and **Kick**, based on the game currently running on your system.
-
 ---
-
 ## 💡 Program Idea
 
 The program’s idea is to automatically change the stream category and title on the **Twitch** and **Kick** platforms according to the game currently running.
