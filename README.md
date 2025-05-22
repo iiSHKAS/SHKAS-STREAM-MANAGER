@@ -30,7 +30,7 @@ On this page, you can:
 - The stream category and title will update automatically based on these games.
 
 
-![Game Management Page](images/game_m.png)
+![Game Management Page](images/Games_m.png)
 
 ---
 
@@ -55,3 +55,14 @@ You can also automatically add games installed via **Steam**:
 
  
 ![Steam Game Detection](images/steam-detection.png)
+
+
+
+---
+
+## 📥 Download Latest Version
+
+You can always get the latest version of the program here:
+
+👉 [Click here to download the latest release](https://github.com/iiSHKAS/SHKAS-STREAM-MANAGER/releases)
+
