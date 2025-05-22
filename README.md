@@ -1,8 +1,11 @@
 # 🎮 SHKAS STREAM MANGER
----
+
+
+
+
 ## 💡 Program Idea
 
-The program’s idea is to automatically change the stream category and title on the **Twitch** and **Kick** platforms according to the game currently running.
+The app’s idea is to automatically change the stream category and title on the **Twitch** and **Kick** platforms according to the game currently running.
 
 ---
 
@@ -11,8 +14,8 @@ The program’s idea is to automatically change the stream category and title on
 ### 1️⃣ Home Page
 
 On this page, you can:
-- Manually edit the stream title.
-- View the current stream status and platform.
+- manually edit the stream title for both platforms at once if you want.
+- view the current status
 
  
 ![Home Page](images/Home_page.png)
@@ -22,23 +25,21 @@ On this page, you can:
 ### 2️⃣ Game Management Page
 
 On this page, you can:
-- Manage the list of games that the program tracks.
+- Manage the list of games that the app tracks.
 - Add or remove tracked games.
 - The stream category and title will update automatically based on these games.
 
-🖼️ *Image Placeholder:*  
-![Game Management Page](images/game-management.png)
+
+![Game Management Page](images/game_m.png)
 
 ---
 
 ### 3️⃣ Manually Adding Games
 
 You can manually add games by:
-- Selecting the game’s running process (the game must be running).
-- Searching for the correct category.
-- Choosing the most accurate one.
+- Selecting the game’s process (the game must be running).
+- After selecting the process, the game name and category name will be automatically determined and suggestions for the game category will appear. Choose the appropriate category.
 
-🖼️ *Image Placeholder:*  
 ![Manual Game Selection](images/manual-game.png)
 
 ---
@@ -52,20 +53,5 @@ You can also automatically add games installed via **Steam**:
   - Detects the correct category if available.
   - Allows you to choose from similar categories if there are multiple options.
 
-🖼️ *Image Placeholder:*  
+ 
 ![Steam Game Detection](images/steam-detection.png)
-
----
-
-## ✅ Features
-
-- Automatic stream category & title updates.
-- Supports both Twitch and Kick platforms.
-- Manual and automatic game tracking.
-- Steam integration.
-
----
-
-## 📂 Image Folder Structure
-
-Make sure your images are stored in the following folder:
