@@ -18,8 +18,8 @@ On this page, you can:
 - Manually edit the stream title.
 - View the current stream status and platform.
 
-🖼️ *Image Placeholder:*  
-![Title and Status Page](images/Home_page.png)
+ 
+![Home Page](images/Home_page.png)
 
 ---
 
