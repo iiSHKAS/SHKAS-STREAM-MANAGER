@@ -1,4 +1,4 @@
-# 🎮 SHKAS STREAM MANGER
+#  SHKAS STREAM MANGER
 
 
 
@@ -9,7 +9,7 @@ The app’s idea is to automatically change the stream category and title on the
 
 ---
 
-## ⚙️ How the Program Works
+## ⚙️ How the app Works
 
 ### 1️⃣ Home Page
 
@@ -47,8 +47,8 @@ You can manually add games by:
 ### 4️⃣ Automatically Add Steam Games
 
 You can also automatically add games installed via **Steam**:
-- Click the **“Add Steam Games”** button.
-- You'll be taken to a new page where the program:
+- Click the **“Add Steam Games icon”** button.
+- You'll be taken to a new page where the app:
   - Scans your installed Steam games.
   - Detects the correct category if available.
   - Allows you to choose from similar categories if there are multiple options.
