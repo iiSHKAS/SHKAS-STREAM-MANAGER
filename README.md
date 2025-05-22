@@ -1,4 +1,4 @@
-# 🎮 Auto Stream Category & Title Updater
+# 🎮 SHKAS STREAM MANGER
 
 A tool that automatically updates your stream's **category** and **title** on both **Twitch** and **Kick**, based on the game currently running on your system.
 
