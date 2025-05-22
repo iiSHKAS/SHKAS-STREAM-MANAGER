@@ -12,7 +12,7 @@ The program’s idea is to automatically change the stream category and title on
 
 ## ⚙️ How the Program Works
 
-### 1️⃣ Title & Status Page
+### 1️⃣ Home Page
 
 On this page, you can:
 - Manually edit the stream title.
