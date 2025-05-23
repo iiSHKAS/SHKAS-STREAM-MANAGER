@@ -7,7 +7,7 @@
 
 The app’s idea is to automatically change the stream category and title on the **Twitch** and **Kick** platforms according to the game currently running.
 
----
+---1
 
 ## ⚙️ How the app Works
 
