@@ -1,4 +1,4 @@
-# 🖥️ SHKAS STREAM MANAGER
+# SHKAS STREAM MANAGER
 📜 This README is available in both English and Arabic.
 
 <p dir="rtl">📜 هذا الملف متاح باللغتين الإنجليزية والعربية — <a href="#-shkas-stream-manager-ar">اضغط هنا لرؤية الشرح ب اللغة العربية ⬇️</a></p>
