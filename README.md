@@ -82,7 +82,7 @@ You can also automatically add games installed via **Steam**:
 - تعديل عنوان البث يدويًا لكلا المنصتين مرة واحدة.
 - مشاهدة حالة البث الحالية.
 
-![Home Page](images/Home_page.png)
+![Home Page](images/Home_page_ar.png)
 
 ---
 
@@ -93,7 +93,7 @@ You can also automatically add games installed via **Steam**:
 - إضافة أو إزالة الألعاب المتابعة.
 - سيتم تحديث التصنيف والعنوان تلقائيًا بناءً على اللعبة المشغلة.
 
-![Game Management Page](images/Games_m.png)
+![Game Management Page](images/Games_m_ar.png)
 
 ---
 
@@ -104,7 +104,7 @@ You can also automatically add games installed via **Steam**:
 - بعد تحديد العملية، سيتم تحديد اسم اللعبة والتصنيف تلقائيًا، وستظهر اقتراحات للتصنيف.
 - اختر التصنيف المناسب.
 
-![Manual Game Selection](images/manual-game.png)
+![Manual Game Selection](images/manual-game_ar.png)
 
 ---
 
@@ -117,7 +117,7 @@ You can also automatically add games installed via **Steam**:
   - يتم تحديد التصنيف المناسب إن وجد.
   - قد تظهر لك عدة تصنيفات مشابهة لاختيار الأنسب.
 
-![Steam Game Detection](images/steam-detection.png)
+![Steam Game Detection](images/steam-detection_ar.png)
 
 ---
 
