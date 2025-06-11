@@ -60,7 +60,14 @@ You can also automatically add games installed via **Steam**:
 
 ## 📥 Download Latest Version
 
-👉 [Click here to download the latest release](https://github.com/iiSHKAS/SHKAS-STREAM-MANAGER/releases)
+🔗 [Click here to download the latest release](https://github.com/iiSHKAS/SHKAS-STREAM-MANAGER/releases)
+
+or you can download it from winget through cmd
+
+```bash
+winget install SHKAS.SSM
+```
+
 
 ---
 
@@ -123,4 +130,11 @@ You can also automatically add games installed via **Steam**:
 
 ## 📥 تحميل آخر إصدار
 
-📎 [اضغط هنا لتحميل آخر نسخة من البرنامج](https://github.com/iiSHKAS/SHKAS-STREAM-MANAGER/releases)
+🔗 [اضغط هنا لتحميل آخر نسخة من البرنامج](https://github.com/iiSHKAS/SHKAS-STREAM-MANAGER/releases)
+
+او يمكنك تحميله من خلال اداة ال Winget من خلال الامر التالي في نافذة ال CMD
+
+```bash
+winget install SHKAS.SSM
+```
+
